@@ -25,11 +25,8 @@ github: [metadata]
 # Build settings
 markdown: kramdown
 
-plugins:
-  - jekyll-feed
-
-whitelist:
-  - jekyll-feed
+# plugins:
+# whitelist:
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
